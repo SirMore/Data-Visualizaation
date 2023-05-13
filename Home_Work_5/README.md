@@ -12,7 +12,7 @@ The data (serialdat.csv), contains information about gene variant transcriptions
     
 
 **Pre-processing**
-The data was pre-processed so that the replication numbers number that follows the $S#V#$ groups  were deleled.
+The data was pre-processed so that the replication numbers number that follows the $S_iV_j$ groups  were deleled.
 
 
 **Initial Plots**: 
