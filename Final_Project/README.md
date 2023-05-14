@@ -2,17 +2,10 @@
 **Question:**
 
 Using a data on food aand housing security of the students at **----** recoreded since 2019 and continues to today, this visualisation seeks to answer thr following questions: 
-1) How is use of government federal aid/assistance associated with food insecurity as measured by
-the USDA index or categories?
-2) Does food insecurity (as measured by USDA index or categories) have a relationship with the
-items pertaining to concentration on school and degree progress/completion?
-3) Are there gender or ethnicity differences in the items pertaining to concentration on school and
-degree progress/completion?
-
-
-
-
- Use the provided data at the [website](https://ourworldindata.org/coronavirus/country/united-states?country=~USA) or All of Us data to complete the following visualization of amounts. Choose a state or region in the US and display the amounts of either hospitalizations for COVID-19 or Coronavirus infections. I am not going to assign a specific region or state or whether you choose hospitalizations or infections since I want everyone to create a unique dataviz. I will not grade you on your selection of region, but instead the quality of the dataviz.
+1) How is use of government federal aid/assistance associated with food insecurity as measured by the USDA index or categories?
+2) Does food insecurity (as measured by USDA index or categories) have a relationship with the items pertaining to concentration on school and degree progress/completion?
+3) Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress/completion?
+---------
  
  **Solution:**
  The complete solution to the above problem is in the notebook:
