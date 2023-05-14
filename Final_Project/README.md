@@ -139,14 +139,16 @@ From the plot above (upper-left to bottom left):
 - bottom-left: Category plot of Blacks for Federal Aid vs USDA Index
 - bottom-right: Category plot of Asians for Federal Aid vs USDA Index
 
--From the distributions above, it can be observed that eventhough there is a disproportional ethnicity distribution, the individual plots of the various races with regards to Federal Aids and USDA categories/Index are all very similar or the same with the same proportions for the various ethnicities.  
+- From the distributions above, it can be observed that eventhough there is a disproportional ethnicity distribution, the individual plots of the various races with regards to Federal Aids and USDA categories/Index are all very similar or the same with the same proportions for the various ethnicities.  
 
 From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
 
-![alt-text-1](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png) ![alt-text-2](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)
+----------------------------------------------------------------
+**ALLUVIAL PLOTS**:
+In order to determine whether the differences in gender and  ethnicity affects the the concentration on school and degree progress/completion,  the alluvial plots for both males and females was used
 
-
-
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/race_female.png)
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/race_male.png)
 
 
 **Initial Plots**: 
