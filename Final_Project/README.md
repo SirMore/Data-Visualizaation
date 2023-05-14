@@ -50,8 +50,13 @@ The gender variable was also transformed using the following key:
 -----------------------------
 ## Section 1: Effects of government aids on food insecurity
 
+**Question: How is use of government federal aid/assistance associated with food insecurity as measured by
+the USDA index or categories?**
 
 
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1.png)
+
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1b.png)
 
 
 
@@ -66,9 +71,9 @@ The gender variable was also transformed using the following key:
 
 We’ll be following the object-oriented method for plotting. The plot function takes two arguments that are X-axis values and Y-axis values plot. In this case, we will pass the ‘X’ variable which has ‘Dates’ and ‘Y’ variable which has ‘Daily Hospitalisation’ to plot.
 
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/initial_hosp.png)
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1.png)
 
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/intitial_icu.png)
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1b.png)
 
 **Thoughts**
 
