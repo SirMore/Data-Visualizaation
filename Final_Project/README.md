@@ -58,7 +58,7 @@ the USDA index or categories?**
 
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1b.png)
 
-**Remark: **
+**Remark:**
 
 The above (upper figure) is a cluster plot of the educational levels vs the type of federal aid received by the respondents. After which, we built a category scatter plot to display the respondents for the classification-to-fedaid categorical values intersect. 
 
@@ -70,9 +70,25 @@ On top of the population cluster plot above, we can draw the follow conclusions:
 - The respondents hardly took the Emergency Loan
 - Finally, the respondents with professional certificates did not really enrol on any of the federal aid programs
 
+**1.2 Federal Aid and USDA Index Relationship**
+
+From the cluster plot above, it can be observed that: 
+
+- Students within the high/marginal food security, either work/study, take loans or take grants.
+- Similarly, across the different USDA index, it can be observed that work-study, take loans or grants dominate the levels.
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_2b.png)
+
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_2b.png)
+
+**Thoughts**
+
+- It can be observed that respondents who work-study exxperienced the highest levels of food insecurities across all the USDA index, with the higest been marginal food security. 
+- Very few students received emergency loans across the USDA category. it is also very evident that most of the students either work and study or take loands and grants.
+- This observation was very evident in all the analysis performed. Refer to the notebook at .............. for a complete analysis.
 
 
-
+**Question: Does food insecurity (as measured by USDA index or categories) have a relationship with the
+items pertaining to concentration on school and degree progress/completion?**
 
 
 
