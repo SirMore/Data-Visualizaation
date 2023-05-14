@@ -86,10 +86,11 @@ From the cluster plot above, it can be observed that:
 - Very few students received emergency loans across the USDA category. it is also very evident that most of the students either work and study or take loands and grants.
 - This observation was very evident in all the analysis performed. Refer to the notebook at .............. for a complete analysis.
 
+----------------------------------------------------------------
+**Question: Does food insecurity (as measured by USDA index or categories) have a relationship with the items pertaining to concentration on school and degree progress/completion?**
 
-**Question: Does food insecurity (as measured by USDA index or categories) have a relationship with the
-items pertaining to concentration on school and degree progress/completion?**
-
+In order to answer this question,  we performed another set of visualisations, which not everythin will be reported here. 
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/2b.png)
 
 
 
