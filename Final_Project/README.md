@@ -16,37 +16,6 @@ Using a data on food aand housing security of the students at **----** recoreded
 
 - The data set for this project consist of the main data and an extra data which contains important information of the respondents. 
 - Variable	Meaning	Notes	Variable type
-Enroll	Enrollment type at UTEP	1-‘Full-time’;  2-‘Part-time’	Factor with 2 levels
-Employ	Are you employed?	1-‘Full-time’; 2-‘Part-time’; 3-‘No’	Factor with 3 levels
-Working	Job on/off campus	1-‘On campus’; 2-‘Off campus’; 3-‘Both’	Factor with 3 levels
-Hrs	Weekly hours worked	1-’19 hours or less’; 2-‘More than 19 hours’	Factor with 2 levels
-Age	What is your age?	Numerical	Numeric; Range 0-75
-Ethnicity	What is your ethnicity?	1-‘Hispanic’; 2-‘American Indian/Alaska native’; 3-‘Asian’; 4-‘African American’; 5-‘Native Hawaiian’; 5-‘White/Caucasian’; 6-‘Other’; 7-‘Prefer not to say’	Character; they were allowed to select multiple options, so there might be lists of responses
-Income	2022 household income	1-‘Less than $10,000’; 2-‘$10,000 to $19,999’; 3-‘$20,000 to $29,999; 4-‘$30,000 to $39,999’; 5-‘$40,000 to $49,999’; 6-‘$50,000 to $59,999’; 7-‘$60,000 to $69,999’; 8-‘$70,000 to $79,999’; 9-‘$80,000 to $89,999’; 10-‘$90,000 to $99,999’; 11-‘$100,000 or more’	Factor with 11 levels
-Classification	Academic level	1-‘Freshman’; 2-‘Sophomore’; 3-‘Junior’; 4-‘Senior’; 5-‘Graduate (Masters)’; 6-‘Doctoral’; 7-‘Special: Professional (Certificate Program)’	Factor with 7 levels
-College	Which college are you a student of?	1-‘Business’; 2-‘Education’; 3-‘Engineering’; 4-‘Liberal Arts’; 5-‘Health Sciences’; 6-‘Nursing’; 7-‘Science’; 8-‘Pharmacy’; 9-‘Other’	Character; they were allowed to select multiple options, so there might be lists of responses
-Commute	Way of transportation to school	1-‘Car (alone)’; 2-‘Car (someone drives to campus and picks you up)’; 3-‘Carpool’; 4-‘Bus/Public transportation’; 5-‘Bike’; 6-‘Trolley’; 7-‘Walk’; 8-‘Uber/Lyft’; 9-‘Other’; 10-‘Not applicable’	Factor with 11 levels
-Alone	Do you live alone?	1-‘Yes’; 2-‘No’	Factor with 2 levels
-Dependents	# of dependents	1-‘None’; 2-‘1’; 3-‘2’; 4-‘3’	Factor with 4 levels
-HoH	Head of household	1-‘Yes'; 2-‘No’	Factor with 2 levels
-Live	Current housing situation	1-‘On campus’; 2-‘Off campus with family’; 3-‘Off campus not with family’; 4-‘Other’; 5-‘Off campus with parents’; 6-‘Off campus with partner’; 7-‘Off campus with partner and kids’	Factor with 7 levels
-FedAid	Federal Student Aid in the past 12 months	1-‘Grants’; 2-‘Work-study’; 3-‘Loans’; 4-‘Scholarship’; 5-‘Emergency Loan’; 6-‘UTEP’s COVID CARES Act Fund’; 7-‘Other’; 8-‘None’	Factor with 8 levels
-PA	Permanent address in the past 12 months	1-‘Yes'; 2-‘No'	Factor with 2 levels
-FreqNightElse	Frequency spending nights elsewhere due to lack of PA	1-‘Often’, 2-‘Sometimes’; 3-‘Rarely’	Factor with 3 levels
-UTEPHomeless	Do you know any students experiencing homelessness?	1-‘Yes’; 2-‘No’	Factor with 2 levels
-Year	Year of collecting the data	1-‘2019’; 2-‘2020’; 3-‘2021’; 4-‘2022’	Factor with 4 levels
-HH3	The food did’t last and there were no more money left for more food	1-‘True’; 0-‘False’	Character
-HH4	Couldn’t afford balanced meals	1-‘True’; 0-‘False’	Character
-AD1	Cut size or skip meals because of lack of money	1-‘True’; 0-‘False’	Character
-AD1a	How often did AD1 happen?	1-‘Almost every month/Some months’; 0-‘Only 1 or 2 months’	Character
-AD2	Eat less because of lack of money	1-‘True’; 0-‘False’	Character
-AD3	Hungry but didn’t eat because of lack of money	1-‘True’; 0-’False’	Character
-Index	Food security stats/score	0,1,2,3,4,5,6	Character
-Gender	Gender you identify with	1-‘Female’; 2-‘Male’; 3-‘Transgender’; 4-‘Gender variant’; 5-‘Other’; 6-‘Prefer not to say’	Character; they were allowed to select multiple options, so there might be lists of responses
-USDAcat	Calculated Food Security levels	If Index %in% 0:1 then USDAcat-‘Marginal/High FS’; If Index %in% 2:4 then USDAcat-‘Low FS’; If Index %in% 5:6 then USDAcat-‘Very Low FS’	Character
-YR_2019:YR_2022	Specific year; 4 separated columns	1-‘No’; 2-‘Yes’	Factor with 2 levels; if the variable ‘Year’ is equal with the year in the name, the entry will be ‘Yes’ and ‘No otherwise’
-Ethn_Hisp:Ethn_Other	Specific ethnicity; 7 separated columns	1-‘No’; 2-‘Yes’	Factor with 2 levels; if the variable ‘Ethniciy’ is equal with the ethnicity in the name, the entry will be ‘Yes’ and ‘No otherwise’
-Coll_BSN:Coll_NA	Specific college; 10 separated columns	1-‘No’; 2-‘Yes'	Factor with 2 levels; if the variable ‘College’ is equal with the college in the name, the entry will be ‘Yes’ and ‘No otherwise’
 ![image](https://github.com/SirMore/Data-Visualization/assets/10974475/6806e659-bb89-401d-9892-ed443cd5065c)
 
 
