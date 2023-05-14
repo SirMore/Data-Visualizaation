@@ -106,14 +106,44 @@ In order to answer this question,  we performed another set of visualisations, w
  - Among all the cluster of colleges, it can be observed that the distribution of federal aids is very similar as we would expect from the results and visualisations from the previous section.
 
 
+----------------------------------------------------------------
+**Question: Are there gender or ethnicity differences in the items pertaining to concentration on school and
+degree progress/completion?**
+
+- Since the data has records across different years, we visualized the distribution of federal aids the years. It can be oberved that most students benefitted from the federal aids for 2020, which is probably duee to the COVID 19 pandemics.
+- Students across the differrent years, work and study followed by loans.
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year.png)
+
+Following the visualisation above, we performed analysis of the Food Insecurity as defined by the USDA index across the different years. 
+
+It can be clearly seen that most food insecurities was observed in 2020. The amount of values recorded for 2020 is more that of the remaining years. With high/marginal food security been the most dominated category or index.
+
+Surprisingly, the number of students within the categories dropped significantly in 2021, with very little records for marginal/high food security.
+
+
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)
+
+
+
+
+From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
+
+
+
+
+
+
+
+
+
 
 **Initial Plots**: 
 
 We’ll be following the object-oriented method for plotting. The plot function takes two arguments that are X-axis values and Y-axis values plot. In this case, we will pass the ‘X’ variable which has ‘Dates’ and ‘Y’ variable which has ‘Daily Hospitalisation’ to plot.
 
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1.png)
 
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/1_1b.png)
+
+
 
 **Thoughts**
 
