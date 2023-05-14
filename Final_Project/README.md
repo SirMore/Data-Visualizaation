@@ -91,7 +91,19 @@ From the cluster plot above, it can be observed that:
 
 In order to answer this question,  we performed another set of visualisations, which not everythin will be reported here. 
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/2b.png)
-
+ 
+ As can be seen from the above most of the numerous students were female hispanics among the survey respondents are within the following clusters below:
+ 
+ - Most of the senior students are in Health Sciences, followed by Engineering and Business.
+ - Very few seniors are in Pharmacy and Sciences.
+ - Similarly, the top 3 colleges for Juniors are: Health Sciences, Engineering and Business respectively in order.
+ - And the bottom 3 colleges among the respondents are: Science, Education and Pharmacy.
+ - Similar observation can be made about students in Sophomore year.
+ - The bottom three colleges in this instance are: Science, Liberal Arts and Pharmacy
+ - Among the freshmen, the most populous colleges were Health Sciences, Engineering and Nursing. And the least populous colleges are Science, ducation and Pharmacy
+ - Interestingly, among the masters students, the most populous college is Education and Health Sciences.
+ - Finally, for Doctoral students, most respondents were in Nursing and Engineering.
+ - Among all the cluster of colleges, it can be observed that the distribution of federal aids is very similar as we would expect from the results and visualisations from the previous section.
 
 
 
