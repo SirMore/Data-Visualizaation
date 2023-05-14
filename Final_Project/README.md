@@ -29,6 +29,23 @@ The column variable was casted back unto the original character values using the
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | New Key | Business | Education | Engineering | Liberal Arts | Health Sciences | Nursing | Science | Pharmacy | Other | multi-option |
 
+- **Processing the variable Ethnicity**
+
+The ethnicity of the responders was transformed back unto the original character values using the table below as a key quide
+
+| Old Key| 1 | 2 | 3 | 4 | 5 | 6 | 7 | multi-option |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New Key | Hispanic | American Indian/Alaska native | Asian | African American | Native Hawaiian | White/Caucasian | Other  | Mixed |
+
+- **Processing the variable Gender**
+
+The gender variable was also transformed using the following key:
+
+| Old Key| 1 | 2 | 3 | 4 | 5 | 6 | 0 | multi-option |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New Key | Female | Male | Transgender | Gender variant | Other | Other | Other  | Transgender|
+
+
 
 **Initial Plots**: 
 
