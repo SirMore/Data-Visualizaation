@@ -15,33 +15,19 @@ Using a data on food aand housing security of the students at **----** recoreded
  **Data Importation and Data Wrangling**
 
 - The data set for this project consist of the main data and an extra data which contains important information of the respondents. 
-- Variable	Meaning	Notes	Variable type
 ![image](https://github.com/SirMore/Data-Visualization/assets/10974475/6806e659-bb89-401d-9892-ed443cd5065c)
 
-
-
-- 
-- 
-- The dataset for this project is [Data on COVID-19 (coronavirus) by Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data). Which is a  complete COVID-19 dataset collection of the COVID-19 data maintained by -Our World in Data](https://ourworldindata.org/coronavirus). The data is updated daily throughout the duration of the COVID-19 pandemic.
-
-- For the purpose of this project, I concentrated on the Covid-19 information on the United States.
-
-- And the following columns were selected for visualization purposes:
-    - total_cases:	Total confirmed cases of COVID-19. Counts can include probable cases, where reported.
-    - new_cases:	New confirmed cases of COVID-19. Counts can include probable cases, where reported. In rare cases where oursource reports a negative daily change due to a data correction, we set this metric to NA.
-    - total_deaths	Total deaths attributed to COVID-19. Counts can include probable deaths, where reported.
-    - new_deaths	New deaths attributed to COVID-19. Counts can include probable deaths, where reported. In rare cases where our source reports a negative daily change due to a data correction, we set this metric to NA.
-    - icu_patients	Number of COVID-19 patients in intensive care units (ICUs) on a given day.
-    - hosp_patients	Number of COVID-19 patients in hospital on a given day
-    - total_tests	Total tests for COVID-19
-    - new_tests	New tests for COVID-19 (only calculated for consecutive days)
-    - total_vaccinations	Total number of COVID-19 vaccination doses administered
-    - people_vaccinated	Total number of people who received at least one vaccine dose
-    - people_fully_vaccinated	Total number of people who received all doses prescribed by the initial vaccination protocol
+- In order to merge the data, the key "RespondentId" is used since it is the only common variable between the two data sets master and extra. Allow the columns conating the questions in the extra data was not included in the merged data.
+- The master data comprised of 11763 variables/columns and 59 observations, while the extra data has 1743 columns and 57 obervations. In all the merged data has 1743 variables and 73 observations.
     
 
 **Pre-processing**
-- Because the main attributes for this project is the hospitalisation and ICU, rows with missing values in these two columns were deleted and the resulting data frame was saved and imported for the visualisation.
+-  **Pre-processing the variable college**
+The column variable was casted back unto the original character values using the table below as a key
+
+| Old Key| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | multi-option |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New Key | Business | Education | Engineering | Liberal Arts | Health Sciences | Nursing | Science | Pharmacy | Other | multi-option |
 
 
 **Initial Plots**: 
