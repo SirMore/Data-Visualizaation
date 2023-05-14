@@ -124,12 +124,7 @@ Following the visualisation above, we performed analysis of the Food Insecurity 
 
 
 
-
-From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
-
-From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
-
-
+From the visualisation (below) of the ethnicity (**upper-left plot**), we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities (See below).
 
 <p float="left">
   <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/hispanic1.png" width="500" title = "good" /> 
@@ -138,20 +133,15 @@ From the visualisation of the ethnicity, we observed that Hispanics dominated th
  <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/black.png" width="500" />
 </p>
 
-<figure>
-  <img src="/img1.png" width="100" />
-  <figcaption>Figure 1: Description of img1</figcaption>
-</figure>
+From the plot above (upper-left to bottom left):
+- upper-left: Category plot of gender vs Federal Aid
+- upper-right: Category plot of Hispanics for Federal Aid vs USDA Index
+- bottom-left: Category plot of Blacks for Federal Aid vs USDA Index
+- bottom-right: Category plot of Asians for Federal Aid vs USDA Index
 
-<figure>
-  <img src="/img2.png" width="100" /> 
-  <figcaption>Figure 2: Description of img2</figcaption>
-</figure>
+-From the distributions above, it can be observed that eventhough there is a disproportional ethnicity distribution, the individual plots of the various races with regards to Federal Aids and USDA categories/Index are all very similar or the same with the same proportions for the various ethnicities.  
 
-<figure>
-  <img src="/img3.png" width="100" />
-  <figcaption>Figure 3: Description of img3</figcaption>
-</figure>
+From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
 
 ![alt-text-1](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png) ![alt-text-2](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)
 
