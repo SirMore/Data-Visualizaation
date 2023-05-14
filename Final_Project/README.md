@@ -132,7 +132,7 @@ From the visualisation of the ethnicity, we observed that Hispanics dominated th
 
 
 <p float="left">
-  <img src="/[img1.png](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)" width="100" />
+  <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png" width="100" /> 
   <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png" width="100" /> 
   <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png" />
 </p>
