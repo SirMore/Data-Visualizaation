@@ -10,7 +10,7 @@ Using a data on food aand housing security of the students at **----** recoreded
  **Solution:**
  The complete solution to the above problem is in the notebook:
  
- **Link(s) to work** [Data Visualization of Covid-19 Data](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/Data%20Visualization%20of%20Covid-19%20Data.ipynb) 
+ **Link(s) to work** [FINAL PROJECT](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Final_Project.ipynb)
  ------------
  **Data Importation and Data Wrangling**
 
@@ -151,47 +151,12 @@ In order to determine whether the differences in gender and  ethnicity affects t
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/race_male.png)
 
 
-**Initial Plots**: 
+After reviewing both of the alluvial diagrams above, we can see that most of the male students are Hispanic (kinda expected) are in the Health Sciences college, in their senior year and they are msotly in the marginal/high food security category and they usually work and study.
 
-We’ll be following the object-oriented method for plotting. The plot function takes two arguments that are X-axis values and Y-axis values plot. In this case, we will pass the ‘X’ variable which has ‘Dates’ and ‘Y’ variable which has ‘Daily Hospitalisation’ to plot.
-
-
-
-
-
-**Thoughts**
-
-The plots above gives the initial visualizations of the variables of interest in this project.  But these plots are not the best representation for large dataset values along the axes as you can see the ‘Dates’ are overlapping on X-axis. To overcome this challenge we will introduce some new functions to take more control over the aesthetics of the graph.
-
-**Aesthetics**
-
-As you can see, the above graphs are not telling a good story, mainly because all of the yearly data is being plotted together. In addition, you can’t see the test dates because there are far too many points. Therefore, the first steps I took were to clean the data.
-To have control over the aesthetics of the graph such as labels, titles, color and size we shall apply more functions as shown below.
-
-**Intermidiate plot**
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/intermediate_hosp.png)
-
-**Remark:**
-Still as we can see the dates are overlapping and the labels along axes are not clear enough. 
-This is a little better, but it’s still messy, and it’s not giving me all the information I want. By this point, I decided that my goal would not be accomplished with matplotlib, so I moved onto plotly.
 
 **Final**
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_hosp.png)
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_icu.png)
 
-**Remark: Refer to [Data Visualization of Covid-19 Data](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/Data%20Visualization%20of%20Covid-19%20Data.ipynb) for complete visualization**
 
-Now, this was more of the format I was looking for, but now it was time to combine my data. The code below allowed me to plot the all the columns of interest together for the US in the chosen time-frame.
+**Remark: Refer to [FINAL PROJECT](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Final_Project.ipynb) for complete visualization**
 
-To break it down, first I created subplots to allow for a dual y-axis. Then I plotted the COVID-19 data for USA. I added traces for each line that I wanted to add. Then I formatted the titles and added annotations. I wanted to highlight the date of the first COVID lockdown re-opening in the state of California, so I added that with the text annotations.
 
-Finally, I created my dropdown filter with the updatemenus parameter. 
-
-NB: It can't be displayed here because it is interractive.
-
-**Fianlly: Grouped bar charts for years**
-
-Next, to compare which months recoreded the highest number of patients hospitalized and admitted into ICUs, I visualized the grouped bar charts of the dataset.
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_month_hosp.png)
-
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_month_icu.png)
