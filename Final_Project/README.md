@@ -116,9 +116,8 @@ degree progress/completion?**
 
 Following the visualisation above, we performed analysis of the Food Insecurity as defined by the USDA index across the different years. 
 
-It can be clearly seen that most food insecurities was observed in 2020. The amount of values recorded for 2020 is more that of the remaining years. With high/marginal food security been the most dominated category or index.
-
-Surprisingly, the number of students within the categories dropped significantly in 2021, with very little records for marginal/high food security.
+- It can be clearly seen that most food insecurities was observed in 2020. The amount of values recorded for 2020 is more that of the remaining years. With high/marginal food security been the most dominated category or index.
+- Surprisingly, the number of students within the categories dropped significantly in 2021, with very little records for marginal/high food security.
 
 
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)
@@ -129,6 +128,14 @@ Surprisingly, the number of students within the categories dropped significantly
 From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
 
 From the visualisation of the ethnicity, we observed that Hispanics dominated the entire survey. But to better understand distribution for the different races with regard to USDA index and federal aids, we performed individual separate visualisations for the distinct ethnicities.
+
+
+
+<p float="left">
+  <img src="/[img1.png](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)" width="100" />
+  <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png" width="100" /> 
+  <img src="https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png" />
+</p>
 
 
 ![alt-text-1](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png) ![alt-text-2](https://github.com/SirMore/Data-Visualization/blob/main/Final_Project/Figures/year2.png)
