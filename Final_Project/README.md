@@ -11,7 +11,7 @@ Using a data on food aand housing security of the students at **----** recoreded
  The complete solution to the above problem is in the notebook:
  
  **Link(s) to work** [Data Visualization of Covid-19 Data](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/Data%20Visualization%20of%20Covid-19%20Data.ipynb) 
- 
+ ------------
  **Data Importation and Data Wrangling**
 
 - The data set for this project consist of the main data and an extra data which contains important information of the respondents. 
@@ -44,6 +44,21 @@ The gender variable was also transformed using the following key:
 | Old Key| 1 | 2 | 3 | 4 | 5 | 6 | 0 | multi-option |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | New Key | Female | Male | Transgender | Gender variant | Other | Other | Other  | Transgender|
+
+
+
+-----------------------------
+## Section 1: Effects of government aids on food insecurity
+
+
+
+
+
+
+
+
+
+
 
 
 
