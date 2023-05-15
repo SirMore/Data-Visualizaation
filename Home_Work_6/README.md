@@ -5,7 +5,7 @@
  **Solution:**
  The complete solution to the above problem is in the notebook:
  
- **Link(s) to work** [Data Visualization of Covid-19 Data](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/HW_6.ipynb) 
+ **Link(s) to work** [Data Visualization of Covid-19 Data]([https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/HW_6.ipynb](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/HW_6-new.ipynb)) 
  
  **Data Importation and Data Wrangling**
 
