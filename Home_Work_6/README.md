@@ -61,6 +61,7 @@ In order to better understand if any the association between continuous outcomes
 As you can see, the above graphs are not telling a good story, mainly because all of the yearly data is being plotted together. In addition, you can’t see the test dates because there are far too many points. Therefore, the first steps I took were to clean the data.
 To have control over the aesthetics of the graph such as labels, titles, color and size we shall apply more functions as shown below.
 
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/median.png)
 
 
 
