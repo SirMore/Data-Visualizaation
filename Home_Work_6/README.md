@@ -82,14 +82,13 @@ From the plot above, it can be observed that:
 
 **Thoughts**
 
-To better understand the distribution of the median age, we used a side-by-side box plot to visualise the median age across the different continents.
-
-From the plot above, it can be observed that:
-- The median age of the people of the Asian continent is slightly left skewed with the presence of an outlier
-- Regards to Europe and North America, we can observe that they are kinda symmetrical, with no presence of any outliers, implying that the proportions of the young and old is almost the same. (Which to me is a little stange because I though that Europe had a higher older generation)
-- Africa is very much skewed to the right with the presence of several outliers. It can be observed that, the maximum age of Africans is less than the median ages of people from thye Asian and North American continents.
-- Finally, Oceania on the other hand is extremely right skewed.
-- The North American and the Oceania continents, have median ages which are very widely spread out unlike their counterparts in Europe, African and South America, whose median ages are very much close together with less variability.
+We finally plotted the life expectancy across various continents.
+- As per the median age, it can be seen that the continent with the highest life expectancy, is Europe with a median value of over 80 years and minimum and maximum values of 72 and 87 years respectively.
+- North America has a median life expectancy of 77 years with 72 and 84years being the minimum and maximum values respectively.
+- Africa as usual, has the least life expectancy, with a median value of 64, minimum value of 53 and maximum life expectancy of 77
+- It can be observed that the life expectancy of Europe and South America is very much skewed to the left.
+- While that of Asia, Africa and North America is slightly symmetirc.
+- Oceania had the highest variability in Life Expectancy.
 
 
 
