@@ -32,9 +32,10 @@
 
 
 **Visualisations**: 
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/continent.png)
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/continent_1.png)
 In the entire dataset it can be observed that the continents with the highest to least number of countries are:
-Africa, Asia, Europe, North America, Oceania, South America
+Africa, Asia, Europe, North America, Oceania, South America.
+
 
 In order to better understand if any the association between continuous outcomes, we focused on exploring the continous variables:
  - Median Age and 
