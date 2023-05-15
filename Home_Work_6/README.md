@@ -28,11 +28,11 @@
     
 
 **Pre-processing**
-- Because the main attributes for this project is the hospitalisation and ICU, rows with missing values in these two columns were deleted and the resulting data frame was saved and imported for the visualisation.
 
 
 **Visualisations**: 
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/continent_1.png)
+
 In the entire dataset it can be observed that the continents with the highest to least number of countries are:
 Africa, Asia, Europe, North America, Oceania, South America.
 
