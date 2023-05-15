@@ -65,28 +65,20 @@ To have control over the aesthetics of the graph such as labels, titles, color a
 
 **Thoughts**
 
-- From the plot above, it can be observed that, the continent with the highest median age is Europe with their median age of over 40 years, closely followed by the North American continent with a median age very close to 35 years.
+To better understand the distribution of the median age, we used a side-by-side box plot to visualise the median age across the different continents.
 
-- Africa has the least median age of slightly above 20 years.
-
-- From these values, it is quite clear as to why more people in Europe and North America were affected with the covid-19
-- And very less records of these cases for the African continent.
-
-
-
-
+From the plot above, it can be observed that:
+- The median age of the people of the Asian continent is slightly left skewed with the presence of an outlier
+- Regards to Europe and North America, we can observe that they are kinda symmetrical, with no presence of any outliers, implying that the proportions of the young and old is almost the same. (Which to me is a little stange because I though that Europe had a higher older generation)
+- Africa is very much skewed to the right with the presence of several outliers. It can be observed that, the maximum age of Africans is less than the median ages of people from thye Asian and North American continents.
+- Finally, Oceania on the other hand is extremely right skewed.
+- The North American and the Oceania continents, have median ages which are very widely spread out unlike their counterparts in Europe, African and South America, whose median ages are very much close together with less variability.
 
 
-As you can see, the above graphs are not telling a good story, mainly because all of the yearly data is being plotted together. In addition, you can’t see the test dates because there are far too many points. Therefore, the first steps I took were to clean the data.
-To have control over the aesthetics of the graph such as labels, titles, color and size we shall apply more functions as shown below.
 
-Now, this was more of the format I was looking for, but now it was time to combine my data. The code below allowed me to plot the all the columns of interest together for the US in the chosen time-frame.
 
-To break it down, first I created subplots to allow for a dual y-axis. Then I plotted the COVID-19 data for USA. I added traces for each line that I wanted to add. Then I formatted the titles and added annotations. I wanted to highlight the date of the first COVID lockdown re-opening in the state of California, so I added that with the text annotations.
 
-Finally, I created my dropdown filter with the updatemenus parameter. 
 
-NB: It can't be displayed here because it is interractive.
 
 **Fianlly: Grouped bar charts for years**
 
