@@ -1,4 +1,4 @@
-## ⚡⚡ Home Work 4
+## ⚡⚡ Home Work 6
 **Question:**
 
  Use the provided data at the [website](https://ourworldindata.org/coronavirus/country/united-states?country=~USA) or All of Us data to complete the following visualization of amounts. Choose at least two continuous scale variables and a categorical variable for grouping. Then,  display the association in some manner that allows the viewer to see if association between the continuous variables differs across the categorical groups
@@ -59,17 +59,26 @@ To have control over the aesthetics of the graph such as labels, titles, color a
 
 
 **Intermidiate plot**
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/intermediate_hosp.png)
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/expectancy.png)
 
-**Remark:**
-Still as we can see the dates are overlapping and the labels along axes are not clear enough. 
-This is a little better, but it’s still messy, and it’s not giving me all the information I want. By this point, I decided that my goal would not be accomplished with matplotlib, so I moved onto plotly.
 
-**Final**
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_hosp.png)
-![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/figures/final_icu.png)
 
-**Remark: Refer to [Data Visualization of Covid-19 Data](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_4/first_visualization/Data%20Visualization%20of%20Covid-19%20Data.ipynb) for complete visualization**
+**Thoughts**
+
+- From the plot above, it can be observed that, the continent with the highest median age is Europe with their median age of over 40 years, closely followed by the North American continent with a median age very close to 35 years.
+
+- Africa has the least median age of slightly above 20 years.
+
+- From these values, it is quite clear as to why more people in Europe and North America were affected with the covid-19
+- And very less records of these cases for the African continent.
+
+
+
+
+
+
+As you can see, the above graphs are not telling a good story, mainly because all of the yearly data is being plotted together. In addition, you can’t see the test dates because there are far too many points. Therefore, the first steps I took were to clean the data.
+To have control over the aesthetics of the graph such as labels, titles, color and size we shall apply more functions as shown below.
 
 Now, this was more of the format I was looking for, but now it was time to combine my data. The code below allowed me to plot the all the columns of interest together for the US in the chosen time-frame.
 
