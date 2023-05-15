@@ -63,6 +63,16 @@ To have control over the aesthetics of the graph such as labels, titles, color a
 
 ![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/median.png)
 
+**Thoughts**
+
+From the plot above, it is observed that, the most/modal "median age" of:
+- The worls is 33 years
+- Asia is 31 years
+- North America is 27 years
+- Africa is 18 - 19
+- Europe is 35, 39 - 42
+- South America is very uniform across all the age groups
+- Oceania is 37 - 38
 
 
 **Intermidiate plot**
