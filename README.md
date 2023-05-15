@@ -173,10 +173,16 @@ After the preprocessing, a joint boxplot of the three replications was visualize
     
 
 **Pre-processing**
-- Because the main attributes for this project is the hospitalisation and ICU, rows with missing values in these two columns were deleted and the resulting data frame was saved and imported for the visualisation.
 
 
-**Visualisations**: 
+ 
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/continent_1.png)
+
+In the entire dataset it can be observed that the continents with the highest to least number of countries are:
+Africa, Asia, Europe, North America, Oceania, South America.
+
+
+**Visualisations**:
 
 In order to better understand if any the association between continuous outcomes, we focused on exploring the continous variables:
  - Median Age and 
@@ -200,7 +206,18 @@ In order to better understand if any the association between continuous outcomes
 As you can see, the above graphs are not telling a good story, mainly because all of the yearly data is being plotted together. In addition, you can’t see the test dates because there are far too many points. Therefore, the first steps I took were to clean the data.
 To have control over the aesthetics of the graph such as labels, titles, color and size we shall apply more functions as shown below.
 
+![Alt Text](https://github.com/SirMore/Data-Visualization/blob/main/Home_Work_6/Main/figures/median.png)
 
+**Thoughts**
+
+From the plot above, it is observed that, the most/modal "median age" of:
+- The worls is 33 years
+- Asia is 31 years
+- North America is 27 years
+- Africa is 18 - 19
+- Europe is 35, 39 - 42
+- South America is very uniform across all the age groups
+- Oceania is 37 - 38
 
 
 **Intermidiate plot**
@@ -234,6 +251,10 @@ We finally plotted the life expectancy across various continents.
 - It can be observed that the life expectancy of Europe and South America is very much skewed to the left.
 - While that of Asia, Africa and North America is slightly symmetirc.
 - Oceania had the highest variability in Life Expectancy.
+
+
+
+
 
 
 
